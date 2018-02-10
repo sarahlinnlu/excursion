@@ -4,11 +4,11 @@ body {
 
 h1, h2, p, a {
 font-family: Verdana;
-  text-align: center;
+  text-align: Center;
 }
 
 img {
-  align: center;
+  align: Center;
 }
 
 h1 {
